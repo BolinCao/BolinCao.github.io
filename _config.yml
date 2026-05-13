@@ -8,7 +8,7 @@
 # Site Settings
 title: "Bolin Cao"
 name: "Bolin Cao"
-description: "PhD Candidate in Psychology | Neuroimaging | Brain Networks | Disorders of Consciousness | Dementia Risk"
+description: "PhD Candidate in Psychology | Neuroimaging | Brain Networks | Dementia Risk | Disorders of Consciousness | Brain Plasticity"
 url: "https://BolinCao.github.io"
 repository: "BolinCao/BolinCao.github.io"
 
@@ -24,18 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   avatar: "profile.png"
   name: "Bolin Cao"
-  pronouns:
-  bio: "PhD candidate in Psychology at Trinity College Dublin, working on neuroimaging, brain functional networks, dementia risk, disorders of consciousness, and machine learning."
+  bio: "PhD candidate in Psychology at Trinity College Dublin. My research focuses on neuroimaging, brain networks, dementia risk, disorders of consciousness, and brain plasticity."
   location: "Dublin, Ireland / Guangzhou, China"
   employer: "Trinity College Dublin"
-  email: "caob@tcd.ie"
-  uri:
+  email:
   github: "BolinCao"
-  googlescholar:
-  orcid:
-  linkedin:
-  twitter:
-  youtube:
+  googlescholar: "https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en"
 
 # Reading Files
 include:
