@@ -1,3 +1,4 @@
 _site/
 push.sh
 .DS_Store
+run_deepprep_tcp_one_by_one.sh
