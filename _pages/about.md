@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+[中文](/zh/)
+
+I am Bolin Cao, a PhD candidate in Psychology at Trinity College Dublin. I received my master’s degree in Psychology from South China Normal University.
+
+My research uses neuroimaging and computational methods to study brain functional organization across dementia risk, disorders of consciousness, and long-term athletic training. I am particularly interested in how brain networks are altered by disease risk, severe brain injury, and intensive training experience, and how these alterations can inform risk identification, clinical assessment, and outcome prediction.
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
