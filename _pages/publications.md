@@ -13,7 +13,7 @@ First-author and co-first-author peer-reviewed publications. For current citatio
 
 <div class="publication-list">
 
-<div class="publication-item"><div class="publication-year">2026</div><div>
+<div class="publication-item"><div class="publication-year">2026</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR</span>
 
 ### Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes
@@ -22,7 +22,7 @@ First-author and co-first-author peer-reviewed publications. For current citatio
 *Medicine & Science in Sports & Exercise*.
 </div></div>
 
-<div class="publication-item highlight"><div class="publication-year">2026</div><div>
+<div class="publication-item highlight"><div class="publication-year">2026</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR · DEMENTIA</span>
 
 ### The relative contribution of modifiable and non-modifiable factors for determining cognition in mid-life individuals at risk for late-life Alzheimer's disease
@@ -31,7 +31,7 @@ First-author and co-first-author peer-reviewed publications. For current citatio
 *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2025</div><div>
+<div class="publication-item"><div class="publication-year">2025</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR</span>
 
 ### Dynamic reconfiguration of brain functional networks in world-class gymnasts: a resting-state functional MRI study
@@ -40,7 +40,7 @@ First-author and co-first-author peer-reviewed publications. For current citatio
 *Brain Communications*, 7(2), fcaf083.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2024</div><div>
+<div class="publication-item"><div class="publication-year">2024</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR</span>
 
 ### The long-term intensive gymnastic training influences functional stability and integration: a resting-state fMRI study
@@ -49,7 +49,7 @@ First-author and co-first-author peer-reviewed publications. For current citatio
 *Psychology of Sport and Exercise*, 74, 102678.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2023</div><div>
+<div class="publication-item"><div class="publication-year">2023</div><div markdown="1">
 <span class="publication-tag">CO-FIRST AUTHOR</span>
 
 ### Disrupted multi-scale topological organization of directed functional brain networks in patients with disorders of consciousness
@@ -58,7 +58,7 @@ Guo, Y., **Cao, B.**, He, Y., Xie, Q., Liang, Q., Lan, Y., Zhang, M., Qiu, Y., Y
 *Brain Communications*, 5(2), fcad069.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2021</div><div>
+<div class="publication-item"><div class="publication-year">2021</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR</span>
 
 ### Time-delay structure predicts clinical scores for patients with disorders of consciousness using resting-state fMRI
@@ -67,7 +67,7 @@ Guo, Y., **Cao, B.**, He, Y., Xie, Q., Liang, Q., Lan, Y., Zhang, M., Qiu, Y., Y
 *NeuroImage: Clinical*, 32, 102797.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2019</div><div>
+<div class="publication-item"><div class="publication-year">2019</div><div markdown="1">
 <span class="publication-tag">FIRST AUTHOR</span>
 
 ### Abnormal dynamic properties of functional connectivity in disorders of consciousness
