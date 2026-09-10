@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: "Bolin Cao"
+title: "Bolin Cao | Cognitive Neuroscience"
 name: "Bolin Cao"
-description: "PhD Candidate in Psychology | Neuroimaging | Brain Networks | Dementia Risk | Disorders of Consciousness | Brain Plasticity"
+description: "Cognitive neuroscience, brain networks, cognitive ageing, and dementia prevention."
 url: "https://BolinCao.github.io"
 repository: "BolinCao/BolinCao.github.io"
 
@@ -22,11 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  avatar: "profile.png"
+  avatar: "https://avatars.githubusercontent.com/u/33445290?v=4"
   name: "Bolin Cao"
-  bio: "PhD candidate in Psychology at Trinity College Dublin. My research focuses on neuroimaging, brain networks, dementia risk, disorders of consciousness, and brain plasticity."
-  location: "Dublin, Ireland / Guangzhou, China"
-  employer: "Trinity College Dublin"
+  bio: "Cognitive neuroscience · Dementia prevention"
+  location:
+  employer:
   email:
   github: "BolinCao"
   googlescholar: "https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en"
