@@ -13,7 +13,7 @@ author_profile: true
 
 <div class="publication-list">
 
-<div class="publication-item"><div class="publication-year">2026</div><div>
+<div class="publication-item"><div class="publication-year">2026</div><div markdown="1">
 <span class="publication-tag">第一作者</span>
 
 ### 长期高强度训练增强精英运动员脑功能侧化及其对短期脑震荡的韧性
@@ -22,7 +22,7 @@ author_profile: true
 *Medicine & Science in Sports & Exercise*.
 </div></div>
 
-<div class="publication-item highlight"><div class="publication-year">2026</div><div>
+<div class="publication-item highlight"><div class="publication-year">2026</div><div markdown="1">
 <span class="publication-tag">第一作者 · 痴呆研究</span>
 
 ### 可改变与不可改变因素对晚年阿尔茨海默病风险中年人群认知表现的相对贡献
@@ -31,7 +31,7 @@ author_profile: true
 *Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring*.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2025</div><div>
+<div class="publication-item"><div class="publication-year">2025</div><div markdown="1">
 <span class="publication-tag">第一作者</span>
 
 ### 世界级体操运动员脑功能网络的动态重构：静息态功能磁共振研究
@@ -40,7 +40,7 @@ author_profile: true
 *Brain Communications*, 7(2), fcaf083.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2024</div><div>
+<div class="publication-item"><div class="publication-year">2024</div><div markdown="1">
 <span class="publication-tag">第一作者</span>
 
 ### 长期高强度体操训练影响脑功能稳定性与整合
@@ -49,7 +49,7 @@ author_profile: true
 *Psychology of Sport and Exercise*, 74, 102678.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2023</div><div>
+<div class="publication-item"><div class="publication-year">2023</div><div markdown="1">
 <span class="publication-tag">共同第一作者</span>
 
 ### 意识障碍患者有向脑功能网络的多尺度拓扑组织受损
@@ -58,7 +58,7 @@ Guo, Y., **Cao, B.**, He, Y., Xie, Q., Liang, Q., Lan, Y., Zhang, M., Qiu, Y., Y
 *Brain Communications*, 5(2), fcad069.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2021</div><div>
+<div class="publication-item"><div class="publication-year">2021</div><div markdown="1">
 <span class="publication-tag">第一作者</span>
 
 ### 静息态功能磁共振的时间延迟结构可预测意识障碍患者临床评分
@@ -67,7 +67,7 @@ Guo, Y., **Cao, B.**, He, Y., Xie, Q., Liang, Q., Lan, Y., Zhang, M., Qiu, Y., Y
 *NeuroImage: Clinical*, 32, 102797.
 </div></div>
 
-<div class="publication-item"><div class="publication-year">2019</div><div>
+<div class="publication-item"><div class="publication-year">2019</div><div markdown="1">
 <span class="publication-tag">第一作者</span>
 
 ### 意识障碍患者功能连接动态属性异常
