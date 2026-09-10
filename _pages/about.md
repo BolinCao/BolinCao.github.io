@@ -37,18 +37,6 @@ I study how severe brain injury alters the organisation and temporal dynamics of
 
 I investigate how long-term intensive training shapes the human brain. Using resting-state functional magnetic resonance imaging in elite gymnasts and other trained populations, I examine network stability, dynamic reconfiguration, functional lateralisation, and inter-hemispheric collaboration, as well as the brain's response to short-term concussion.
 
-## Education
-
-<div class="cv-row">
-  <div class="cv-date">2021–2026</div>
-  <div><strong>PhD in Psychology</strong><br>School of Psychology and Trinity College Institute of Neuroscience, Trinity College Dublin, Ireland<br><span class="cv-note">Ussher Scholarship</span></div>
-</div>
-
-<div class="cv-row">
-  <div class="cv-date">2017–2020</div>
-  <div><strong>Master's degree in Psychology</strong><br>School of Psychology, South China Normal University, China</div>
-</div>
-
 ## Publications
 
 1. Cao, B., Guo, Y., Deng, F., Chen, L., Lu, M., Wang, J., & Huang, R. (2026). Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes. *Medicine & Science in Sports & Exercise*.
@@ -65,26 +53,12 @@ I investigate how long-term intensive training shapes the human brain. Using res
 
 7. Cao, B., Chen, Y., Yu, R., Chen, L., Chen, P., Weng, Y., Chen, Q., Song, J., Xie, Q., & Huang, R. (2019). Abnormal dynamic properties of functional connectivity in disorders of consciousness. *NeuroImage: Clinical, 24*, 102071.
 
-8. Weng, Y., Liu, X., Hu, H., Huang, H., Zheng, S., Chen, Q., Song, J., Cao, B., Wang, J., Wang, S., & Huang, R. (2020). Open eyes and closed eyes elicit different temporal properties of brain functional networks. *NeuroImage*.
-
-9. Chen, Q., Lv, X., Zhang, S., Lin, J., Song, J., Cao, B., Weng, Y., Li, L., & Huang, R. (2020). Altered properties of brain white matter structural networks in patients with nasopharyngeal carcinoma after radiotherapy. *Brain Imaging and Behavior*.
-
-10. Song, J., Li, J., Chen, L., Lu, X., Zheng, S., Yang, Y., Cao, B., Weng, Y., Chen, Q., Ding, J., & Huang, R. (2021). Altered gray matter structural covariance networks at both acute and chronic stages of mild traumatic brain injury. *Brain Imaging and Behavior*.
-
 For the most recent citation record, see [Google Scholar](https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en).
 
 ## Books and translation
 
 - Lakens, D. (2022). *Improving Your Statistical Inferences* / 《提升你的统计推断能力》.
 - Andrea, O. (2019). *Brain Function Monitoring in the ICU and Beyond* / 《意识障碍临床神经生理学：ICU 脑功能监测及预后判断》. South China University of Technology Press.
-
-## Awards
-
-- Chinese Government Award for Outstanding Self-financed Students Abroad, 2024
-- Trinity College Dublin Ussher Scholarship
-- Outstanding Master's Thesis, South China Normal University, 2020
-- Zeng Yongyu Scholarship, South China Normal University, 2020
-- Outstanding Graduate, South China Normal University, 2020
 
 ## Contact
 
