@@ -1,43 +1,52 @@
 ---
 title: "Research"
 permalink: /research/
+lang: en
 author_profile: true
 ---
 
-[中文](/zh/research/)
+<div class="language-link"><a href="/zh/research/">中文</a></div>
 
-## Research Areas
+# Research
+
+## Cognitive neuroscience of dementia prevention
+
+My main research programme examines how risk and protective factors for late-life dementia are expressed in the brain during midlife, before overt cognitive impairment. This work is grounded in cognitive neuroscience and uses multimodal information to connect population-level risk with individual differences in brain organisation and cognition.
 
 <div class="research-grid" markdown="1">
 
 <div class="research-card" markdown="1">
 
-### Dementia and Alzheimer’s Disease Risk
+### Early risk signatures
 
-My dementia-related research focuses on how risk factors for late-life Alzheimer’s disease are reflected in brain functional architecture during midlife, before clinical symptoms emerge. Using resting-state fMRI, functional connectivity, high-order brain interactions, directed network analysis, and machine learning, I examine how genetic, cardiovascular, lifestyle, and cognitive-reserve factors shape brain network organization and cognitive performance.
+I investigate whether inherited and cardiovascular risk factors are associated with detectable differences in large-scale functional brain networks during midlife.
 
-**Keywords:** midlife dementia risk; Alzheimer’s disease; APOE ε4; functional connectivity; high-order interactions; predictive modeling.
-
-</div>
-
-<div class="research-card" markdown="1">
-
-### Disorders of Consciousness
-
-My work on disorders of consciousness investigates how severe brain injury disrupts large-scale functional brain networks and how these alterations relate to residual consciousness and clinical outcomes. I have used resting-state fMRI, dynamic functional connectivity, time-delay analysis, directed functional networks, and graph-theoretical approaches to characterize brain reorganization in patients with disorders of consciousness.
-
-**Keywords:** disorders of consciousness; severe brain injury; residual consciousness; resting-state fMRI; dynamic functional connectivity; directed brain networks.
+**Keywords:** APOE ε4; cardiovascular risk; midlife; preclinical markers.
 
 </div>
 
 <div class="research-card" markdown="1">
 
-### Elite Athletes and Brain Plasticity
+### Brain-network organisation
 
-My athlete-related research examines how long-term intensive training reshapes the functional organization of the human brain. Using resting-state fMRI and brain network analysis, I study dynamic network reconfiguration, functional stability, hemispheric lateralization, and inter-hemispheric collaboration in elite athletes, including world-class gymnasts and endurance athletes.
+I use functional connectivity, directed networks, dynamic analysis, and higher-order interactions to characterise how distributed brain systems are organised.
 
-**Keywords:** elite athletes; brain plasticity; training experience; dynamic brain networks; hemispheric lateralization; resting-state fMRI.
+**Keywords:** resting-state fMRI; effective connectivity; network neuroscience; higher-order interactions.
+
+</div>
+
+<div class="research-card" markdown="1">
+
+### Reserve and resilience
+
+I examine how education, cognitively stimulating activities, and other life-course experiences may relate to cognition and brain resilience across ageing.
+
+**Keywords:** cognitive reserve; resilience; stimulating activities; cognitive ageing.
 
 </div>
 
 </div>
+
+## Broader research experience
+
+Related work examines large-scale brain-network disruption following severe brain injury and functional reorganisation associated with long-term intensive athletic training. Across these projects, the common theme is how brain networks respond to risk, injury, and experience.
