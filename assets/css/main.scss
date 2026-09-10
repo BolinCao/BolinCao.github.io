@@ -87,6 +87,78 @@
 
 }
 
+.language-link {
+  float: right;
+  margin: 0 0 1rem 1rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.language-link a {
+  display: inline-block;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid #2f6277;
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.focus-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1.4rem 0 2rem;
+}
+
+.focus-strip span {
+  padding: 0.35rem 0.75rem;
+  color: #214a5c;
+  background: #edf3f5;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.education-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1.2rem;
+  padding: 1rem 0;
+  border-top: 1px solid #dfe4e6;
+}
+
+.education-row:last-of-type { border-bottom: 1px solid #dfe4e6; }
+.education-year { color: #2f6277; font-weight: 700; }
+
+.home-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; margin-top: 1.8rem; }
+.home-button {
+  display: inline-block;
+  padding: 0.65rem 1rem;
+  color: #fff !important;
+  background: #214a5c;
+  border: 1px solid #214a5c;
+  text-decoration: none !important;
+  font-weight: 600;
+}
+.home-button.secondary { color: #214a5c !important; background: transparent; }
+
+.publication-list { margin-top: 1.6rem; border-top: 2px solid #263238; }
+.publication-item {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 1.25rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #d8dddf;
+}
+.publication-item.highlight { padding-left: 0.9rem; border-left: 4px solid #9f2d32; background: #fbf8f7; }
+.publication-year { color: #9f2d32; font-weight: 700; }
+.publication-item h3 { margin: 0.45rem 0 0.55rem; font-size: 1.05rem; line-height: 1.42; }
+.publication-item p { margin: 0.15rem 0; }
+.publication-tag { color: #2f6277; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; }
+
+@media (max-width: 600px) {
+  .education-row, .publication-item { grid-template-columns: 1fr; gap: 0.35rem; }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
@@ -116,10 +188,11 @@ h1:before, .anchor:before {
 }
 
 .research-card {
-  border: 1px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 1.1rem;
-  background: #fafafa;
+  border: 0;
+  border-top: 4px solid #2f6277;
+  border-radius: 0;
+  padding: 1.15rem;
+  background: #f4f7f8;
 }
 
 .research-card h3 {
