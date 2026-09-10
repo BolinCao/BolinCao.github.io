@@ -34,18 +34,6 @@ author_profile: true
 
 我研究长期高强度训练如何塑造人脑。通过精英体操运动员及其他训练人群的静息态功能磁共振数据，我关注脑网络稳定性、动态重构、功能侧化、半球间协作，以及大脑对短期脑震荡的反应。
 
-## 教育经历
-
-<div class="cv-row">
-  <div class="cv-date">2021–2026</div>
-  <div><strong>心理学博士</strong><br>都柏林圣三一大学心理学院与神经科学研究所，爱尔兰<br><span class="cv-note">Ussher Scholarship</span></div>
-</div>
-
-<div class="cv-row">
-  <div class="cv-date">2017–2020</div>
-  <div><strong>心理学硕士</strong><br>华南师范大学心理学院，中国</div>
-</div>
-
 ## 学术论文
 
 1. Cao, B., Guo, Y., Deng, F., Chen, L., Lu, M., Wang, J., & Huang, R. (2026). Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes. *Medicine & Science in Sports & Exercise*.
@@ -62,26 +50,12 @@ author_profile: true
 
 7. Cao, B., Chen, Y., Yu, R., Chen, L., Chen, P., Weng, Y., Chen, Q., Song, J., Xie, Q., & Huang, R. (2019). Abnormal dynamic properties of functional connectivity in disorders of consciousness. *NeuroImage: Clinical, 24*, 102071.
 
-8. Weng, Y., Liu, X., Hu, H., Huang, H., Zheng, S., Chen, Q., Song, J., Cao, B., Wang, J., Wang, S., & Huang, R. (2020). Open eyes and closed eyes elicit different temporal properties of brain functional networks. *NeuroImage*.
-
-9. Chen, Q., Lv, X., Zhang, S., Lin, J., Song, J., Cao, B., Weng, Y., Li, L., & Huang, R. (2020). Altered properties of brain white matter structural networks in patients with nasopharyngeal carcinoma after radiotherapy. *Brain Imaging and Behavior*.
-
-10. Song, J., Li, J., Chen, L., Lu, X., Zheng, S., Yang, Y., Cao, B., Weng, Y., Chen, Q., Ding, J., & Huang, R. (2021). Altered gray matter structural covariance networks at both acute and chronic stages of mild traumatic brain injury. *Brain Imaging and Behavior*.
-
 最新引用记录请参见 [Google Scholar](https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en)。
 
 ## 著作翻译
 
 - Lakens, D. (2022). *Improving Your Statistical Inferences* / 《提升你的统计推断能力》。
 - Andrea, O. (2019). *Brain Function Monitoring in the ICU and Beyond* / 《意识障碍临床神经生理学：ICU 脑功能监测及预后判断》。华南理工大学出版社。
-
-## 获得奖项
-
-- 2024年度国家优秀自费留学生奖学金
-- 都柏林圣三一大学 Ussher Scholarship 博士奖学金
-- 华南师范大学2020届十佳毕业论文
-- 华南师范大学2020届曾永裕奖学金
-- 华南师范大学2020届优秀毕业研究生
 
 ## 联系方式
 
