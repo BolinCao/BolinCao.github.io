@@ -1,26 +1,8 @@
 # main links links
 main_en:
-  - title: "About"
-    url: /
-
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
   - title: "中文"
     url: /zh/
 
 main_zh:
-  - title: "简介"
-    url: /zh/
-
-  - title: "研究方向"
-    url: /zh/research/
-
-  - title: "论文发表"
-    url: /zh/publications/
-
   - title: "English"
     url: /
