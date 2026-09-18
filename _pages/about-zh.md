@@ -14,10 +14,7 @@ wide: true
     <h1>曹博林</h1>
     <p class="home-hero__statement">从<strong>脑损伤</strong>、<strong>脑健康</strong>到<strong>经验依赖性可塑性</strong>，研究大尺度脑网络的重组规律。</p>
     <p class="home-hero__intro">我的研究主要结合功能磁共振、网络神经科学和多变量建模，关注严重脑损伤后的脑网络重组、中年期痴呆风险的早期神经表征，以及长期高强度训练相关的脑可塑性。</p>
-    <div class="home-identity">
-      <span>博士后研究人员 · 南方医科大学珠江医院</span>
-      <span>心理学博士 · 都柏林圣三一大学</span>
-    </div>
+    <p class="home-hero__meta">心理学博士 · 都柏林圣三一大学</p>
     <div class="home-actions">
       <a class="home-button" href="https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
       <a class="home-button secondary" href="https://orcid.org/0000-0002-0390-9215" target="_blank" rel="noopener">ORCID</a>
@@ -139,43 +136,6 @@ wide: true
       <p><strong>2019 · NeuroImage: Clinical</strong><br>Abnormal dynamic properties of functional connectivity in disorders of consciousness.<br><a href="https://doi.org/10.1016/j.nicl.2019.102071" target="_blank" rel="noopener">10.1016/j.nicl.2019.102071</a></p>
     </div>
   </details>
-</section>
-
-<section class="home-section" id="background">
-  <div class="section-heading">
-    <div>
-      <span class="section-eyebrow">学术经历</span>
-      <h2>研究训练与代表性荣誉</h2>
-    </div>
-    <p>研究经历从脑网络与严重脑损伤逐步拓展至中年期脑健康，同时始终围绕“大尺度脑功能组织如何发生变化”这一核心问题展开。</p>
-  </div>
-
-  <div class="background-grid">
-    <div class="timeline-panel">
-      <div class="timeline-item">
-        <span class="timeline-year">现任</span>
-        <div><strong>博士后研究人员</strong><br><span>南方医科大学珠江医院</span></div>
-      </div>
-      <div class="timeline-item">
-        <span class="timeline-year">博士</span>
-        <div><strong>心理学</strong><br><span>都柏林圣三一大学 · Ussher Scholarship</span></div>
-      </div>
-      <div class="timeline-item">
-        <span class="timeline-year">硕士</span>
-        <div><strong>硕士研究生</strong><br><span>华南师范大学</span></div>
-      </div>
-    </div>
-
-    <div class="recognition-panel">
-      <span class="mini-label">代表性荣誉</span>
-      <ul>
-        <li>国家优秀自费留学生奖学金，2024</li>
-        <li>Trinity College Dublin Ussher Scholarship</li>
-        <li>华南师范大学优秀硕士学位论文，2020</li>
-        <li>曾永裕奖学金、优秀毕业生，2020</li>
-      </ul>
-    </div>
-  </div>
 </section>
 
 <section class="home-section home-section--about" id="about">
