@@ -17,10 +17,7 @@ redirect_from:
     <h1>Bolin Cao</h1>
     <p class="home-hero__statement">Brain networks across <strong>injury</strong>, <strong>ageing</strong>, and <strong>adaptation</strong>.</p>
     <p class="home-hero__intro">I am a cognitive neuroscientist studying how large-scale brain systems reorganise after severe brain injury, how dementia risk is expressed before clinical symptoms, and how intensive training shapes experience-dependent plasticity.</p>
-    <div class="home-identity">
-      <span>Postdoctoral Researcher · Zhujiang Hospital, Southern Medical University</span>
-      <span>PhD in Psychology · Trinity College Dublin</span>
-    </div>
+    <p class="home-hero__meta">PhD in Psychology · Trinity College Dublin</p>
     <div class="home-actions">
       <a class="home-button" href="https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
       <a class="home-button secondary" href="https://orcid.org/0000-0002-0390-9215" target="_blank" rel="noopener">ORCID</a>
@@ -142,43 +139,6 @@ redirect_from:
       <p><strong>2019 · NeuroImage: Clinical</strong><br>Abnormal dynamic properties of functional connectivity in disorders of consciousness.<br><a href="https://doi.org/10.1016/j.nicl.2019.102071" target="_blank" rel="noopener">10.1016/j.nicl.2019.102071</a></p>
     </div>
   </details>
-</section>
-
-<section class="home-section" id="background">
-  <div class="section-heading">
-    <div>
-      <span class="section-eyebrow">BACKGROUND</span>
-      <h2>Training and recognition</h2>
-    </div>
-    <p>My academic training has moved from network neuroscience and severe brain injury to midlife brain health, while retaining a common focus on large-scale functional organisation.</p>
-  </div>
-
-  <div class="background-grid">
-    <div class="timeline-panel">
-      <div class="timeline-item">
-        <span class="timeline-year">Current</span>
-        <div><strong>Postdoctoral Researcher</strong><br><span>Zhujiang Hospital, Southern Medical University</span></div>
-      </div>
-      <div class="timeline-item">
-        <span class="timeline-year">PhD</span>
-        <div><strong>Psychology</strong><br><span>Trinity College Dublin · Ussher Scholar</span></div>
-      </div>
-      <div class="timeline-item">
-        <span class="timeline-year">MSc</span>
-        <div><strong>Master's degree</strong><br><span>South China Normal University</span></div>
-      </div>
-    </div>
-
-    <div class="recognition-panel">
-      <span class="mini-label">SELECTED RECOGNITION</span>
-      <ul>
-        <li>Chinese Government Award for Outstanding Self-financed Students Abroad, 2024</li>
-        <li>Trinity College Dublin Ussher Scholarship</li>
-        <li>Outstanding Master's Thesis, South China Normal University, 2020</li>
-        <li>Zeng Yongyu Scholarship & Outstanding Graduate, 2020</li>
-      </ul>
-    </div>
-  </div>
 </section>
 
 <section class="home-section home-section--about" id="about">
