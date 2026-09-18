@@ -8,7 +8,7 @@
 # Site Settings
 title: "Bolin Cao | Cognitive Neuroscience"
 name: "Bolin Cao"
-description: "Cognitive neuroscience, dementia prevention, disorders of consciousness, and athlete brain plasticity."
+description: "Cognitive neuroscientist studying brain networks across disorders of consciousness, dementia risk, and experience-dependent plasticity."
 url: "https://BolinCao.github.io"
 repository: "BolinCao/BolinCao.github.io"
 
@@ -24,12 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   avatar: "https://avatars.githubusercontent.com/u/33445290?v=4"
   name: "Bolin Cao"
-  bio: "Cognitive neuroscience · Dementia prevention"
+  bio: "Cognitive neuroscience · Neuroimaging · Brain networks"
   location:
   employer:
-  email:
+  email: "bolincao@foxmail.com"
   github: "BolinCao"
   googlescholar: "https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-0390-9215"
 
 # Reading Files
 include:
