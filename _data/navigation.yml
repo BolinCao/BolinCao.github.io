@@ -1,8 +1,24 @@
-# main links links
+# Main navigation
 main_en:
+  - title: "Research"
+    url: /#research
+  - title: "Publications"
+    url: /#publications
+  - title: "About"
+    url: /#about
+  - title: "Contact"
+    url: /#contact
   - title: "中文"
     url: /zh/
 
 main_zh:
+  - title: "研究"
+    url: /zh/#research
+  - title: "论文"
+    url: /zh/#publications
+  - title: "关于"
+    url: /zh/#about
+  - title: "联系"
+    url: /zh/#contact
   - title: "English"
     url: /
