@@ -27,7 +27,7 @@ redirect_from:
   </div>
   <div class="home-hero__art">
     <div class="home-hero__art-bg" aria-hidden="true"></div>
-    <img src="/images/bolin-academic-cartoon.svg" alt="Illustrated academic portrait of Bolin Cao">
+    <img src="/images/bolin-academic-cartoon.jpg" alt="Illustrated academic portrait of Bolin Cao">
     <div class="home-hero__art-caption">Curiosity about the brain,<br>for a healthier and more resilient future.</div>
   </div>
 </section>
