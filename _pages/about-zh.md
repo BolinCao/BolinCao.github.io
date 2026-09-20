@@ -13,7 +13,7 @@ wide: true
     <div class="home-kicker">认知神经科学 · 神经影像 · 脑网络</div>
     <h1>曹博林</h1>
     <p class="home-hero__statement">从脑损伤、脑健康到经验依赖性可塑性，研究大尺度脑网络的重组规律。</p>
-    <p class="home-hero__intro">我的研究主要结合功能磁共振、网络神经科学和多变量建模，关注严重脑损伤后的脑网络重组、中年期痴呆风险的早期神经表征，以及长期高强度训练相关的脑可塑性。</p>
+    <p class="home-hero__intro">我的研究主要关注严重脑损伤后的大尺度脑网络重组、中年期痴呆风险的早期神经表征，以及长期高强度训练相关的脑可塑性。</p>
     <p class="home-hero__meta">心理学博士 · 都柏林圣三一大学</p>
     <div class="home-actions">
       <a class="home-button" href="https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
