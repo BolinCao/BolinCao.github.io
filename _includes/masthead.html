@@ -6,10 +6,10 @@
         <ul class="visible-links">
           {% if page.lang == 'zh-CN' %}
             {% assign nav_links = site.data.navigation.main_zh %}
-            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/zh/">学术主页</a></li>
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/zh/">曹博林</a></li>
           {% else %}
             {% assign nav_links = site.data.navigation.main_en %}
-            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/">Academic Homepage</a></li>
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/">Bolin Cao</a></li>
           {% endif %}
           {% for link in nav_links %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
