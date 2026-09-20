@@ -85,7 +85,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1249/MSS.0000000000003961" target="_blank" rel="noopener">DOI 10.1249/MSS.0000000000003961</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.0</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes">Citations 0</span>
       </div>
     </article>
 
@@ -100,7 +100,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1002/dad2.70303" target="_blank" rel="noopener">DOI 10.1002/dad2.70303</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.9</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="The relative contribution of modifiable and non-modifiable factors for determining cognition in mid-life individuals at risk for late-life Alzheimer's disease">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="The relative contribution of modifiable and non-modifiable factors for determining cognition in mid-life individuals at risk for late-life Alzheimer's disease">Citations 0</span>
       </div>
     </article>
 
@@ -115,7 +115,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1093/braincomms/fcaf083" target="_blank" rel="noopener">DOI 10.1093/braincomms/fcaf083</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.5</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Dynamic reconfiguration of brain functional networks in world-class gymnasts: a resting-state functional MRI study">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Dynamic reconfiguration of brain functional networks in world-class gymnasts: a resting-state functional MRI study">Citations 7</span>
       </div>
     </article>
 
@@ -130,7 +130,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1016/j.psychsport.2024.102678" target="_blank" rel="noopener">DOI 10.1016/j.psychsport.2024.102678</a>
         <span class="metric-pill jif-pill">JIF 2025 · 3.9</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="The long-term intensive gymnastic training influences functional stability and integration: a resting-state fMRI study">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="The long-term intensive gymnastic training influences functional stability and integration: a resting-state fMRI study">Citations 7</span>
       </div>
     </article>
 
@@ -145,7 +145,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1093/braincomms/fcad069" target="_blank" rel="noopener">DOI 10.1093/braincomms/fcad069</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.5</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Disrupted multi-scale topological organization of directed functional brain networks in patients with disorders of consciousness">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Disrupted multi-scale topological organization of directed functional brain networks in patients with disorders of consciousness">Citations 12</span>
       </div>
     </article>
 
@@ -160,7 +160,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1016/j.nicl.2021.102797" target="_blank" rel="noopener">DOI 10.1016/j.nicl.2021.102797</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.2</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Time-delay structure predicts clinical scores for patients with disorders of consciousness using resting-state fMRI">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Time-delay structure predicts clinical scores for patients with disorders of consciousness using resting-state fMRI">Citations 10</span>
       </div>
     </article>
 
@@ -175,7 +175,7 @@ redirect_from:
       <div class="publication-metrics">
         <a class="doi-pill" href="https://doi.org/10.1016/j.nicl.2019.102071" target="_blank" rel="noopener">DOI 10.1016/j.nicl.2019.102071</a>
         <span class="metric-pill jif-pill">JIF 2025 · 4.2</span>
-        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Abnormal dynamic properties of functional connectivity in disorders of consciousness">Citations —</span>
+        <span class="metric-pill citation-count citation-pending" data-label="Citations" data-title="Abnormal dynamic properties of functional connectivity in disorders of consciousness">Citations 60</span>
       </div>
     </article>
   </div>
