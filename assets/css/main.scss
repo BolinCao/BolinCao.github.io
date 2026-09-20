@@ -2488,3 +2488,23 @@ body {
     top: .35rem !important;
   }
 }
+
+
+/* ===== Hide browser PDF helper v9 ===== */
+
+/*
+ * Browser extensions such as EndNote Click/Kopernio may inject a PDF helper
+ * icon into each publication record. Hide any extra direct children after
+ * the three native publication elements (year, content, DOI) so they neither
+ * appear nor create additional vertical spacing.
+ */
+.publication-list--home .publication-item > :nth-child(n+4) {
+  display: none !important;
+}
+
+/* Undo the DOI offset that was previously reserved for the helper icon. */
+@media (min-width: 901px) {
+  .publication-list--home .doi-pill {
+    margin-top: .22rem !important;
+  }
+}
