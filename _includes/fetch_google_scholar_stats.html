@@ -1,19 +1,47 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
+  $(document).ready(function () {
+    {% if site.google_scholar_stats_use_cdn %}
+    var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@';
+    {% else %}
+    var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
+    {% endif %}
+
+    function normalizeTitle(value) {
+      return (value || '')
+        .toLowerCase()
+        .replace(/&amp;/g, 'and')
+        .replace(/&/g, 'and')
+        .replace(/[^a-z0-9]+/g, '');
+    }
+
+    $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json")
+      .done(function (data) {
+        var totalCitation = data['citedby'];
+        var totalEl = document.getElementById('total_cit');
+        if (totalEl) totalEl.innerHTML = totalCitation;
+
+        var publicationIndex = {};
+        Object.keys(data['publications'] || {}).forEach(function (paperId) {
+          var paper = data['publications'][paperId] || {};
+          var title = paper.bib && paper.bib.title ? paper.bib.title : '';
+          publicationIndex[normalizeTitle(title)] = paper.num_citations || 0;
         });
-    })
+
+        document.querySelectorAll('.citation-count[data-title]').forEach(function (element) {
+          var titleKey = normalizeTitle(element.getAttribute('data-title'));
+          if (Object.prototype.hasOwnProperty.call(publicationIndex, titleKey)) {
+            element.textContent = 'Citations ' + publicationIndex[titleKey];
+            element.classList.remove('citation-pending');
+          }
+        });
+
+        var legacyCitationEles = document.getElementsByClassName('show_paper_citations');
+        Array.prototype.forEach.call(legacyCitationEles, function (element) {
+          var paperId = element.getAttribute('data');
+          if (data['publications'] && data['publications'][paperId]) {
+            element.innerHTML = '| Citations: ' + data['publications'][paperId]['num_citations'];
+          }
+        });
+      });
+  });
 </script>
