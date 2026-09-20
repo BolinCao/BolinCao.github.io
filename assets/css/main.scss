@@ -2434,3 +2434,57 @@ body {
     font-size: .86rem !important;
   }
 }
+
+
+/* ===== Browser PDF helper placement v8 ===== */
+
+/*
+ * EndNote Click / Kopernio and similar browser extensions may inject an
+ * additional direct child into each publication record. Because publication
+ * records use CSS Grid, that injected child otherwise becomes a second grid
+ * row and creates a large blank gap between papers.
+ */
+.publication-list--home .publication-item {
+  position: relative;
+}
+
+/* Keep any browser-injected helper after our 3 native children out of layout. */
+.publication-list--home .publication-item > :nth-child(n+4) {
+  position: absolute !important;
+  right: 0.55rem !important;
+  top: 0.48rem !important;
+  left: auto !important;
+  bottom: auto !important;
+  margin: 0 !important;
+  z-index: 4 !important;
+  width: auto !important;
+  max-width: 30px !important;
+  min-width: 0 !important;
+  height: auto !important;
+  grid-column: auto !important;
+  grid-row: auto !important;
+}
+
+/* Small helper icons/iframes injected by extensions should remain compact. */
+.publication-list--home .publication-item > :nth-child(n+4) img,
+.publication-list--home .publication-item > :nth-child(n+4) iframe,
+.publication-list--home .publication-item > :nth-child(n+4) svg {
+  max-width: 28px !important;
+  max-height: 28px !important;
+  margin: 0 !important;
+}
+
+/* Leave a little room above the DOI pill for the PDF helper icon. */
+@media (min-width: 901px) {
+  .publication-list--home .doi-pill {
+    margin-top: 1.25rem;
+  }
+}
+
+/* On narrow screens, keep extension helpers compact without changing flow. */
+@media (max-width: 900px) {
+  .publication-list--home .publication-item > :nth-child(n+4) {
+    right: .2rem !important;
+    top: .35rem !important;
+  }
+}
