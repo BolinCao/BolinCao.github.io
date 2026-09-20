@@ -16,7 +16,7 @@ redirect_from:
     <div class="home-kicker">COGNITIVE NEUROSCIENCE · NEUROIMAGING · BRAIN NETWORKS</div>
     <h1>Bolin Cao</h1>
     <p class="home-hero__statement">Brain networks across injury, ageing, and adaptation.</p>
-    <p class="home-hero__intro">I am a cognitive neuroscientist studying how large-scale brain systems reorganise after severe brain injury, how dementia risk is expressed before clinical symptoms, and how intensive training shapes experience-dependent plasticity.</p>
+    <p class="home-hero__intro">My research focuses on large-scale brain network reorganisation after severe brain injury, early neural signatures of dementia risk in midlife, and brain plasticity associated with long-term intensive training.</p>
     <p class="home-hero__meta">PhD in Psychology · Trinity College Dublin</p>
     <div class="home-actions">
       <a class="home-button" href="https://scholar.google.com/citations?user=qp-aFLEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
