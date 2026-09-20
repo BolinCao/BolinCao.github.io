@@ -2508,3 +2508,65 @@ body {
     margin-top: .22rem !important;
   }
 }
+
+
+/* ===== Publication metrics badges v10 ===== */
+
+.publication-list--home .publication-metrics {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: .38rem;
+  min-width: 150px;
+}
+
+.publication-list--home .publication-metrics .doi-pill {
+  margin: 0 !important;
+}
+
+.metric-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 26px;
+  padding: .28rem .58rem;
+  border: 1px solid #d2e1ea;
+  border-radius: 999px;
+  background: #f7fbfd;
+  color: var(--academic-accent-dark);
+  font-size: .69rem;
+  font-weight: 720;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.jif-pill {
+  background: #f5f8fb;
+}
+
+.citation-count {
+  background: #fbfcfd;
+}
+
+.citation-count.citation-pending {
+  color: #7f909e;
+}
+
+@media (max-width: 900px) {
+  .publication-list--home .publication-metrics {
+    grid-column: 2;
+    align-items: flex-start;
+    min-width: 0;
+  }
+}
+
+@media (max-width: 560px) {
+  .publication-list--home .publication-metrics {
+    grid-column: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .4rem;
+  }
+}
