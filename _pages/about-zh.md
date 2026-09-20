@@ -24,7 +24,7 @@ wide: true
   </div>
   <div class="home-hero__art">
     <div class="home-hero__art-bg" aria-hidden="true"></div>
-    <img src="/images/bolin-academic-cartoon.jpg" alt="曹博林学术卡通头像">
+    <img src="{{ '/assets/images/bolin-academic-cartoon.jpg' | relative_url }}" alt="曹博林学术卡通头像">
     <div class="home-hero__art-caption">保持对大脑的好奇，<br>理解健康、损伤与可塑性。</div>
   </div>
 </section>
