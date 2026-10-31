@@ -30,7 +30,8 @@
         document.querySelectorAll('.citation-count[data-title]').forEach(function (element) {
           var titleKey = normalizeTitle(element.getAttribute('data-title'));
           if (Object.prototype.hasOwnProperty.call(publicationIndex, titleKey)) {
-            var label = element.getAttribute('data-label') || 'Citations';\n            element.textContent = label + ' ' + publicationIndex[titleKey];
+            var label = element.getAttribute('data-label') || 'Citations';
+            element.textContent = label + ' ' + publicationIndex[titleKey];
             element.classList.remove('citation-pending');
           }
         });
