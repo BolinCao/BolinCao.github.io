@@ -1,0 +1,65 @@
+{
+  "name": "Bolin Cao",
+  "source": "Crossref",
+  "updated": "2026-11-07T14:47:14.553970+00:00",
+  "citedby": 99,
+  "publications": {
+    "10.1249/MSS.0000000000003961": {
+      "author_pub_id": "10.1249/MSS.0000000000003961",
+      "bib": {
+        "title": "Brain lateralization enhanced by long-term intensive training and its resilience to short-term concussion in elite athletes"
+      },
+      "num_citations": 0,
+      "doi": "10.1249/MSS.0000000000003961"
+    },
+    "10.1002/dad2.70303": {
+      "author_pub_id": "10.1002/dad2.70303",
+      "bib": {
+        "title": "The relative contribution of modifiable and non-modifiable factors for determining cognition in mid-life individuals at risk for late-life Alzheimer's disease"
+      },
+      "num_citations": 0,
+      "doi": "10.1002/dad2.70303"
+    },
+    "10.1093/braincomms/fcaf083": {
+      "author_pub_id": "10.1093/braincomms/fcaf083",
+      "bib": {
+        "title": "Dynamic reconfiguration of brain functional networks in world-class gymnasts: a resting-state functional MRI study"
+      },
+      "num_citations": 9,
+      "doi": "10.1093/braincomms/fcaf083"
+    },
+    "10.1016/j.psychsport.2024.102678": {
+      "author_pub_id": "10.1016/j.psychsport.2024.102678",
+      "bib": {
+        "title": "The long-term intensive gymnastic training influences functional stability and integration: a resting-state fMRI study"
+      },
+      "num_citations": 7,
+      "doi": "10.1016/j.psychsport.2024.102678"
+    },
+    "10.1093/braincomms/fcad069": {
+      "author_pub_id": "10.1093/braincomms/fcad069",
+      "bib": {
+        "title": "Disrupted multi-scale topological organization of directed functional brain networks in patients with disorders of consciousness"
+      },
+      "num_citations": 13,
+      "doi": "10.1093/braincomms/fcad069"
+    },
+    "10.1016/j.nicl.2021.102797": {
+      "author_pub_id": "10.1016/j.nicl.2021.102797",
+      "bib": {
+        "title": "Time-delay structure predicts clinical scores for patients with disorders of consciousness using resting-state fMRI"
+      },
+      "num_citations": 11,
+      "doi": "10.1016/j.nicl.2021.102797"
+    },
+    "10.1016/j.nicl.2019.102071": {
+      "author_pub_id": "10.1016/j.nicl.2019.102071",
+      "bib": {
+        "title": "Abnormal dynamic properties of functional connectivity in disorders of consciousness"
+      },
+      "num_citations": 59,
+      "doi": "10.1016/j.nicl.2019.102071"
+    }
+  },
+  "fallback_dois": []
+}
